@@ -1,0 +1,21 @@
++----------------+      +-------------------------+
+|     Guest      |      |         Host           |
+|  (User)        |      |                        |
++----------------+      +-------------------------+
+      |                         |
+      | Search for Properties   | Manage Listings
+      | Register/Login          |
+      | Book Property           |
+      | Make Payment            |
+      | View Booking History    |
+      |                         |
+      v                         v
++----------------+      +-------------------------+
+|    Admin       |      |     System              |
+|                |      |                         |
++----------------+      +-------------------------+
+      |                         ^
+      | Approve Listings        |
+      | Generate Reports       |
+      |                        |
+      +------------------------+
